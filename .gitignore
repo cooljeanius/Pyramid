@@ -6,3 +6,8 @@ build/*
 *.perspectivev3
 Debug/
 *.cbTemp
+*.log
+*.xcworkspacedata
+*.xcuserstate
+*/xcuserdata/*
+*.xcuserdatad
