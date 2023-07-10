@@ -11,3 +11,5 @@ Debug/
 *.xcuserstate
 */xcuserdata/*
 *.xcuserdatad
+*.cache
+*.status
