@@ -13,3 +13,10 @@ Debug/
 *.xcuserdatad
 *.cache
 *.status
+*.o
+.deps/*.*o
+config.h
+Makefile
+Pyramid
+pyramid-0.0.1/*
+stamp-*
