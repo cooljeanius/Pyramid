@@ -4,3 +4,4 @@ build-aux/depcomp linguist-vendored
 build-aux/install-sh linguist-vendored
 build-aux/missing linguist-vendored
 Makefile.in linguist-vendored
+Pyramid.1 linguist-documentation
